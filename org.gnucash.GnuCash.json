@@ -372,7 +372,7 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/Gnucash/gnucash/releases/download/2.6.18/gnucash-2.6.18-1.tar.bz2",
+          "url": "https://razaoinfo.dl.sourceforge.net/project/gnucash/gnucash%20%28stable%29/2.6.19/gnucash-2.6.19.tar.bz2",
           "sha256": "68730bcfcead7485011eb43d3b2c5df032c714571c81f9a15d33d8494fc4249d"
         }
       ]
